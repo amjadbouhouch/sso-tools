@@ -1,0 +1,7 @@
+__pycache__/
+*.sw*
+*.pyc
+.venv/
+.chalice/deployments/
+.chalice/venv/
+node_modules/

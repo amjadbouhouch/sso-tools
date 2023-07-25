@@ -1,0 +1,6 @@
+export FLASK_APP="app.py"
+export FLASK_ENV="development"
+export FLASK_RUN_PORT="6002"
+export MONGO_URL="mongodb://localhost"
+export MONGO_DATABASE="ssotools"
+export JWT_SECRET="devsecret"
